@@ -1,0 +1,1 @@
+{"version":1,"defects":{"App\\ProductTest::test_create_product_with_invalid_price":3},"times":{"App\\ProductTest::test_create_product_with_invalid_price":0.011}}
